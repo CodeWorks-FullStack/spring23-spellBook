@@ -1,0 +1,21 @@
+/* BASIC STYLES HERE */
+body {
+  background-image: url(https://assets.tina.io/29c098a6-bd7e-40f3-b7ce-291d22966609/bg_grey.png);
+  background-image: url(https://assets.tina.io/29c098a6-bd7e-40f3-b7ce-291d22966609/bg_grey.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: Helvetica;
+  font-weight: 700;
+}
+
+/* button {
+  background-image: url(https://www.dndbeyond.com/_next/static/media/redButtonBorder.6c2b0e20.png);
+  background-size: 100% 100%;
+  background-color: transparent !important;
+} */
+
+footer {
+  opacity: .7;
+}
